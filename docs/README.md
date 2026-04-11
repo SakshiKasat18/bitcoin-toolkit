@@ -24,7 +24,7 @@ Understand → Build → Analyze
 Parse raw Bitcoin transactions and visualize them in a human-readable format.
 
 * 🔗 GitHub: https://github.com/SakshiKasat18/chain-lens
-* 🌐 Link: https://chain-lens-web.vercel.app/
+* 🌐 Live Demo: https://chain-lens-web.vercel.app/
 
 **Highlights:**
 
@@ -39,8 +39,8 @@ Parse raw Bitcoin transactions and visualize them in a human-readable format.
 
 Construct valid Bitcoin transactions from structured inputs.
 
-* 🔗 GitHub: *(add your repo link here)*
-* 🌐 Link: *(add your web link here)*
+* 🔗 GitHub: (repository in progress — packaging underway) *
+* 🌐 Live Demo: (deployment coming soon) *
 
 **Highlights:**
 
@@ -55,8 +55,8 @@ Construct valid Bitcoin transactions from structured inputs.
 
 Analyze transaction patterns across the Bitcoin blockchain.
 
-* 🔗 GitHub: *(add your repo link here)*
-* 🌐 Link: *(add your web link here)*
+* 🔗 GitHub: (repository in progress — packaging underway) *
+* 🌐 Live Demo: (deployment coming soon) *
 
 **Highlights:**
 

@@ -39,8 +39,8 @@ Parse raw Bitcoin transactions and visualize them in a human-readable format.
 
 Construct valid Bitcoin transactions from structured inputs.
 
-* 🔗 GitHub: (repository in progress — packaging underway) *
-* 🌐 Live Demo: (deployment coming soon) *
+* 🔗 GitHub: https://github.com/SakshiKasat18/coin-smith
+* 🌐 Live Demo: https://coin-smith-web.vercel.app/
 
 **Highlights:**
 

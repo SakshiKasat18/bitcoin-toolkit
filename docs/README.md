@@ -55,7 +55,7 @@ Construct valid Bitcoin transactions from structured inputs.
 
 Analyze transaction patterns across the Bitcoin blockchain.
 
-* 🔗 GitHub: (repository in progress — packaging underway) *
+* 🔗 GitHub: https://github.com/SakshiKasat18/sherlock
 * 🌐 Live Demo: (deployment coming soon) *
 
 **Highlights:**
